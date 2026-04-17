@@ -1,0 +1,6 @@
+
+# Environment Variables (Secrets)
+.env
+__pycache__/
+memory.db
+memory.json
